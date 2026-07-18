@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1a1a2e&height=220&section=header&text=Do'ngboyev%20Shaxriyor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+full-stack+apps;Automating+things+with+Telegram+bots;Learning+something+new+every+day;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
