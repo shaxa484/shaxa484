@@ -13,7 +13,7 @@
 - 🌱 I'm continuously learning **Python, JavaScript, and backend fundamentals**
 - 💡 I enjoy turning everyday annoyances into small automation tools
 - 📫 Reach me on Telegram or Discord (links below)
-- ⚡ Fun fact: I once built a Siri shortcut to control Telegram from macOS
+- ⚡ Fun fact: I used to compete in competetive programming olympiads
 
 ---
 
