@@ -20,7 +20,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,typescript,js,nodejs,c,cpp,java,git,github,flutter,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,typescript,js,react,c,cpp,java,git,github,githubactions,flutter,vscode,androidstudio,bash" alt="Skills" />
 </p>
 
 ---
